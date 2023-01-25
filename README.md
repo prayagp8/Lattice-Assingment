@@ -20,7 +20,7 @@
 
         server.port=8888
 
-        spring.datasource.url=jdbc:mysql://localhost:3306/latticd_db
+        spring.datasource.url=jdbc:mysql://localhost:3306/lattice_db
         spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
         spring.datasource.username=root
         spring.datasource.password=root
