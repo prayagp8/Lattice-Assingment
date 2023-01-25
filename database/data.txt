@@ -1,0 +1,34 @@
+Data for Hospital Id :1 
+
+{
+    "name": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+    "psychiatristCount": 5,
+    "patientsCount": 12,
+    "psychiatristDetails": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "patientCount": 3
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "patientCount": 4
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "patientCount": 2
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "patientCount": 1
+        },
+        {
+            "id": 5,
+            "name": "Emily",
+            "patientCount": 2
+        }
+    ]
+}
