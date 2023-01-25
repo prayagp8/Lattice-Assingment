@@ -1,7 +1,13 @@
 # Rest API
 * We have a platform where psychiatrists can register their patients through a mobile/ web portal. Each psychiatrist belongs to a hospital.
 
-## Tech Stack
+
+### Modules
+1. Hospital Module
+2. Psychiatrist Module
+3. Patient Module
+
+### Tech Stack
 
 * Java
 * Spring Framework
@@ -11,12 +17,16 @@
 * MySQL
 * Lombok
 
-## Modules
-1. Hospital Module
-2. Psychiatrist Module
-3. Patient Module
+
+### ER Diagram
+
+![Database ER diagram  (1)](https://user-images.githubusercontent.com/103635204/214614571-627e2b23-9f46-4230-b2ac-421c9f38cf57.jpeg)
+
+
 
 ```
+
+
 
         server.port=8888
 
